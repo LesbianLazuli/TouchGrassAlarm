@@ -1,6 +1,8 @@
 # TouchGrassAlarm
 Alarm to remind you to touch some grass.
 
+<img width="1197" height="677" alt="Screenshot" src="https://github.com/user-attachments/assets/dc1a5ec8-c52d-41b6-abe4-132502546237" />
+
 Installation
 - Download the repository or clone it using
   git clone
