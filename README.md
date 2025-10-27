@@ -3,7 +3,7 @@ Alarm to remind you to touch some grass.
 
 Installation
 - Download the repository or clone it using
-  git clone https://github.com/YOURUSERNAME/touch-grass-reminder.git
+  git clone
 - Open the folder in File Explorer
 - Ensure the following files are in the same folder
   - touchgrass.ps1
